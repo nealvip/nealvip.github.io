@@ -1,0 +1,33 @@
+Package: com.nealvip.1
+Name: 1
+Version: 1.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Filename: ./debs/1.deb
+SHA1:e891a8cd4d5c41f04920a73bc722918b320f90fd 
+SHA256:2a35cdd8578f4ac2af26134f62f423b9613a7e7b4878df0b131301dbe4bf2f1d
+Size:120006
+MD5sum:0c1d3546d6300a6bfebc29d0294295c5
+Description: An awesome MobileSubstrate tweak!
+Author: nealvip <nealvip@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Maintainer: nealvip <nealvip@gmail.com>
+Author: DuyHa
+
+Package: com.nealvip.2
+Name: 2
+Version: 1.0
+Section: Games
+Architecture: iphoneos-arm
+Filename: ./debs/2.deb
+SHA1:dd6b0c515204a299fac74347a4fd3d0cd955e7bf 
+SHA256:05df7e8ab0140dd54edc0aa5f35da60d06ce0485db2630fddcfbb668a833f2b9
+Size:56590
+MD5sum:5a7d21cdb26a4eeb9d4df5d3ae56696d
+Description: Ví Xả của Huỳnh Anh Khương
+Author: nealvip <nealvip@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Maintainer: nealvip <nealvip@gmail.com>
+Author: DuyHa
