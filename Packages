@@ -33,10 +33,26 @@ Name: 3
 Version: 1.0
 Architecture: iphoneos-arm
 Filename: ./debs/3.deb
-SHA1:fcf3bf6b6fb4ca9e95a32e7b311beec4eed64bb3
-SHA256:4647a745ee3882810fdd2314e73f0fde0304c879768aac67a805a57efb172d1d
-Size:57314
-MD5sum:5faf6a57362d497f2c034f34ef773981
+SHA1:d9e81b0e10d2a30982c37303626d4e77da5a2f2c
+SHA256:6d06fe03ae5304c16d61fbe744b226dd4204c865e347df17b7268cafa3c15b8e
+Size:57326
+MD5sum:1e290afd0ba6eabc1a6e4b85dbc43186
+Description: Ví Xả của Huỳnh Anh Khương
+Author: nealvip <nealvip@gmail.com>
+Section: Tweaks
+Pre-Depends: com.nealvip.3.1
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Maintainer: nealvip <nealvip@gmail.com>
+
+Package: com.nealvip.3.1
+Name: 3.1
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: ./debs/3.1.deb
+SHA1:de89476ec2d526f7ca10e3ded4b95f334891afe7
+SHA256:1b5d6654feadbbaece3d30f20599249c2b70cc19de6522e2a6e1edf915d83f22
+Size:9742
+MD5sum:3e225f8df8eb8aed6294641474267a6b
 Description: Ví Xả của Huỳnh Anh Khương
 Author: nealvip <nealvip@gmail.com>
 Section: Tweaks
