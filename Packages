@@ -58,3 +58,18 @@ Author: nealvip <nealvip@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
 Maintainer: nealvip <nealvip@gmail.com>
+
+Package: com.nealvip.4
+Name: 4
+Version: 1.0.0
+Architecture: iphoneos-arm
+Filename: ./debs/4.deb
+SHA1:c356adb036965c7b5b7a4c2ba315aa292f16a5d9
+SHA256:680a3597662fdc38675e8c53327d73284cafaecf1f9494a551b4d9bd91f873e3
+Size:70426
+MD5sum:a3428019d8a3c044e61b46b4ff5a8dc8
+Description: Ví Xả của Huỳnh Anh Khương
+Author: nealvip <nealvip@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Maintainer: nealvip <nealvip@gmail.com>
