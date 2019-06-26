@@ -73,3 +73,18 @@ Author: nealvip <nealvip@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
 Maintainer: nealvip <nealvip@gmail.com>
+
+Package: com.nealvip.5
+Name: 5
+Version: 2.0
+Architecture: iphoneos-arm
+Filename: ./debs/5.deb
+SHA1:489f5855dada564eff57f36e708bc1f9be86c986
+SHA256:221a7ec221a9fce751cca2d31c489727e5cbe803cef273a4c2562ca22d7a6f31
+Size:119240
+MD5sum:567589862a7e7959d7ba295090164f5a
+Description: Ví Xả của Huỳnh Anh Khương
+Author: nealvip <nealvip@gmail.com>
+Section: System
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: nealvip <nealvip@gmail.com>
